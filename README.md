@@ -31,26 +31,7 @@ Use the trained model to generate face images without masks from input images wi
 
 # Directory Structure
 
-MaskOffGAN/
-│
-├── data/
-│   ├── train/
-│   │   ├── image1.jpg
-│   │   ├── image2.jpg
-│   │   └── ...
-│   └── test/
-│       ├── image1.jpg
-│       ├── image2.jpg
-│       └── ...
-│
-├── models/
-│   └── Version_One.h5
-│
-├── src/
-│   ├── train.py
-│   └── model.py
-│
-└── README.md
+![image](https://github.com/Zidane-263/Mask-Off-GAN-Face-Mask-Removal-using-Generative-Adversarial-Networks/assets/145212977/9355d544-c40a-4225-916b-29a7f4aa337f)
 
 # Acknowledgements
 This project was inspired by the Pix2Pix GAN architecture and adapted to the specific task of face mask removal.
