@@ -24,6 +24,8 @@ Matplotlib
 NumPyUsage
 # Data Preparation:
 Place your training and test images in the specified directory structure (train/*.jpg for training images and test/*.jpg for test images).
+# Dataset 
+Link:https://drive.google.com/drive/folders/1Ol4YbZXDdZ_Dlc_lkRJ9Kvx3xiF2lgRZ?usp=drive_link
 # Model Training:
 Execute the training script (train.py) to start training the MaskOff GAN model.
 # Model Evaluation:
