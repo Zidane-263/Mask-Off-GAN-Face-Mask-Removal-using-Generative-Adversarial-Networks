@@ -30,11 +30,6 @@ Link:https://drive.google.com/drive/folders/1Ol4YbZXDdZ_Dlc_lkRJ9Kvx3xiF2lgRZ?us
 Execute the training script (train.py) to start training the MaskOff GAN model.
 # Model Evaluation:
 Use the trained model to generate face images without masks from input images with masks.
-
-# Directory Structure
-
-![image](https://github.com/Zidane-263/Mask-Off-GAN-Face-Mask-Removal-using-Generative-Adversarial-Networks/assets/145212977/9355d544-c40a-4225-916b-29a7f4aa337f)
-
 # Acknowledgements
 This project was inspired by the Pix2Pix GAN architecture and adapted to the specific task of face mask removal.
 
